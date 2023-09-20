@@ -1,6 +1,6 @@
 ### Hello, I'm Randy! 👋
 
-<img align="right" alt="GIF" src="https://i.gifer.com/EgUx.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://i.gifer.com/EgUx.gif" />
 
 <a href="https://github.com/randydhack/#gh-dark-mode-only">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=randydhack&hide=stars,issues&show_icons=true&theme=react#gh-dark-mode-only" />
