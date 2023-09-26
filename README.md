@@ -24,9 +24,6 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=randydhack&layout=compact&langs_count=8&card_width=350&theme=default#gh-light-mode-only" />
 </a>
 
-### Get to know more about me!:
-<a href="https://www.linkedin.com/in/randy-hac-4577a71b0/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<br />
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
