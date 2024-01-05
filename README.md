@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/randydhack/randydhack/blob/main/EgUx.gif" width="500" height="320"/>
 
 ## I'm a Developer
-- 🔭 I’m currently working on my latest project <a href="https://github.com/randydhack/poke-clicker">PokeClicker</a>.
+- 🔭 I’m currently grinding >:D
 - 🌱 I’m currently job searching!
 - 👯 I’m looking to collaborate on open-source
 - 💬 Ask me about ... Anything
