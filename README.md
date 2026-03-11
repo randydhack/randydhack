@@ -2,14 +2,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/randydhack/randydhack/blob/main/EgUx.gif" width="500" height="320"/>
 
-## I'm a Developer
-- 🔭 I’m currently working on a big project.
-- 🌱 I’m currently job searching!
-- 👯 I’m looking to collaborate on open-source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My favorite anime is One Piece
-
 <a href="https://github.com/randydhack/#gh-dark-mode-only">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=randydhack&hide=stars,issues&show_icons=true&theme=react#gh-dark-mode-only" />
 </a>
